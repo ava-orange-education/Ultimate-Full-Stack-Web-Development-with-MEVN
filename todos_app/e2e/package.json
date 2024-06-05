@@ -1,0 +1,21 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e:testcafe": "testcafe chrome login/*.test.js",
+    "e2e:playwright": "playwright test detail/*.test.js --headed",
+    "test:cypress": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.42.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "cypress": "^13.6.6"
+  }
+}

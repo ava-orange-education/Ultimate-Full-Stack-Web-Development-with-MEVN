@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  # Define the API service
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+      target: build-api
+    container_name: node-api
+    volumes:
+      - ./api:/app
+    ports:
+      - '3001:3001'
+    depends_on:
+      - mongo
+
+  # Define the UI service
+  ui:
+    build:
+      context: ./ui
+      dockerfile: Dockerfile
+      target: build-ui
+    container_name: vue-ui
+    volumes:
+      - ./ui:/app
+    ports:
+      - '5173:5173'
+
+  # Define the MongoDB service
+  mongo:
+    image: mongo:latest
+    container_name: mongo-db
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo-data:/data/db
+
+volumes:
+  mongo-data:

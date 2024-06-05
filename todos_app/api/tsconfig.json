@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+      /* Basic Options */
+      "target": "es2019",                          /* Specify ECMAScript target version. (Node.js 12 supports ES2019) */
+      "module": "commonjs",                        /* Specify module code generation method */
+      "lib": ["es2019"],                           /* Specify a set of JavaScript language features to be included in the compilation */
+      "outDir": "./dist",                          /* Specify an output folder for all emitted files */
+      //"rootDir": "./src",                          /* Specify the root folder within your source files */
+      "removeComments": true,                      /* Remove comments from the output */
+      "strict": true,                              /* Enable all strict type-checking options */
+  
+      /* Module Resolution Options */
+      "moduleResolution": "node",                  /* Choose the module resolution strategy */
+      "esModuleInterop": true,                     /* Enable compatibility with Babel module imports */
+      "resolveJsonModule": true,                   /* Allow importing .json files */
+  
+      /* Advanced Options */
+      "skipLibCheck": true,                        /* Skip type checking for all declaration files (*.d.ts) */
+      "forceConsistentCasingInFileNames": true     /* Force consistent casing in filenames */
+    },
+    //"include": ["*"],   
+    "include": [
+      "./**/*.ts"
+    ],                    /* Specify files or directories to be included in the compilation */
+    "exclude": ["node_modules"]            /* Exclude these directories from the compilation */
+  }

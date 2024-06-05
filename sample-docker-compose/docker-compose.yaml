@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  app1:
+    build: ./app1
+    ports:
+      - "4001:4001"
+    volumes:
+      - app-data:/app-data
+  app2:
+    build: ./app2
+    ports:
+      - "4002:4002"
+    volumes:
+      - app-data:/app-data
+
+volumes:
+  app-data:

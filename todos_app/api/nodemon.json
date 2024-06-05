@@ -1,0 +1,5 @@
+{
+    "watch": ["./"],
+    "delay": "1000",
+    "ignore": ["node_modules", "package.json"]
+}

@@ -1,0 +1,818 @@
+2023-12-25 14:52:25 info: Express Server Listening on port 3080
+2023-12-25 14:52:25 info: Connected to MongoDB, Connection Name NativeConnection
+2023-12-27 16:21:01 info: Express Server Listening on port 3080
+2023-12-27 16:21:02 info: Connected to MongoDB, Connection Name NativeConnection
+2023-12-27 16:55:57 info: Express Server Listening on port 3080
+2023-12-27 16:55:58 info: Connected to MongoDB, Connection Name NativeConnection
+2023-12-27 16:56:33 info: Express Server Listening on port 3080
+2023-12-27 16:56:33 info: Connected to MongoDB, Connection Name NativeConnection
+2023-12-28 15:25:12 info: Disconnected, Connection Name NativeConnection
+2023-12-28 15:25:23 info: Connected to MongoDB, Connection Name NativeConnection
+2023-12-28 16:33:43 info: Disconnected, Connection Name NativeConnection
+2023-12-28 16:33:54 info: Connected to MongoDB, Connection Name NativeConnection
+2023-12-29 12:56:08 info: Disconnected, Connection Name NativeConnection
+2023-12-29 12:56:18 info: Connected to MongoDB, Connection Name NativeConnection
+2023-12-30 13:08:26 info: Disconnected, Connection Name NativeConnection
+2023-12-30 13:08:36 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-01 08:29:06 info: Disconnected, Connection Name NativeConnection
+2024-01-01 08:29:17 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-01 09:49:00 info: Disconnected, Connection Name NativeConnection
+2024-01-01 09:49:10 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-01 10:11:47 info: Disconnected, Connection Name NativeConnection
+2024-01-01 10:11:57 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-01 11:33:42 info: Disconnected, Connection Name NativeConnection
+2024-01-01 11:33:52 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-01 12:14:16 info: Disconnected, Connection Name NativeConnection
+2024-01-01 12:14:27 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-02 04:28:30 info: Disconnected, Connection Name NativeConnection
+2024-01-02 04:28:40 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-02 09:15:07 info: Disconnected, Connection Name NativeConnection
+2024-01-02 09:15:17 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-09 21:36:58 info: Express Server Listening on port 3080
+2024-01-09 21:37:03 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-09 21:37:04 info: url:::::::/tasks
+2024-01-09 21:37:04 info: Service: getTasks
+2024-01-09 21:37:38 info: Express Server Listening on port 3080
+2024-01-09 21:37:40 info: url:::::::/tasks
+2024-01-09 21:37:40 info: Service: getTasks
+2024-01-09 21:37:43 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-09 21:41:10 info: Express Server Listening on port 3080
+2024-01-09 21:41:11 info: url:::::::/tasks
+2024-01-09 21:41:11 info: Service: getTasks
+2024-01-09 21:41:14 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-18 16:55:06 info: Express Server Listening on port 3080
+2024-01-18 16:55:12 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-18 16:57:32 info: url:::::::/tasks
+2024-01-18 16:57:32 info: Service: getTasks
+2024-01-18 17:06:58 info: url:::::::/tasks
+2024-01-18 17:06:58 info: Service: getTasks
+2024-01-18 17:35:36 info: Disconnected, Connection Name NativeConnection
+2024-01-18 17:35:38 info: url:::::::/tasks
+2024-01-18 17:35:38 info: Service: getTasks
+2024-01-18 17:36:00 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-18 19:57:42 info: Disconnected, Connection Name NativeConnection
+2024-01-18 19:57:44 info: url:::::::/tasks
+2024-01-18 19:57:44 info: Service: getTasks
+2024-01-18 19:58:03 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-18 21:56:35 info: url:::::::/tasks
+2024-01-18 21:56:35 info: Service: getTasks
+2024-01-18 21:57:25 info: url:::::::/tasks
+2024-01-18 21:57:25 info: Service: getTasks
+2024-01-18 21:58:52 info: url:::::::/tasks
+2024-01-18 21:58:52 info: Service: getTasks
+2024-01-18 21:59:06 info: url:::::::/tasks
+2024-01-18 21:59:06 info: Service: getTasks
+2024-01-18 21:59:55 info: url:::::::/tasks
+2024-01-18 21:59:55 info: Service: getTasks
+2024-01-18 22:00:01 info: url:::::::/tasks
+2024-01-18 22:00:01 info: Service: getTasks
+2024-01-18 22:00:20 info: url:::::::/tasks
+2024-01-18 22:00:20 info: Service: getTasks
+2024-01-18 22:00:27 info: url:::::::/tasks
+2024-01-18 22:00:27 info: Service: getTasks
+2024-01-18 22:00:57 info: url:::::::/tasks
+2024-01-18 22:00:57 info: Service: getTasks
+2024-01-18 22:01:18 info: url:::::::/tasks
+2024-01-18 22:01:18 info: Service: getTasks
+2024-01-18 22:01:21 info: url:::::::/tasks
+2024-01-18 22:01:21 info: Service: getTasks
+2024-01-18 22:02:06 info: url:::::::/tasks
+2024-01-18 22:02:06 info: Service: getTasks
+2024-01-18 22:06:04 info: url:::::::/tasks
+2024-01-18 22:06:04 info: Service: getTasks
+2024-01-18 22:06:12 info: url:::::::/tasks
+2024-01-18 22:06:12 info: Service: getTasks
+2024-01-18 22:10:14 info: url:::::::/tasks
+2024-01-18 22:10:14 info: Service: getTasks
+2024-01-18 22:10:30 info: url:::::::/tasks
+2024-01-18 22:10:30 info: Service: getTasks
+2024-01-18 22:10:35 info: url:::::::/tasks
+2024-01-18 22:10:35 info: Service: getTasks
+2024-01-18 22:11:06 info: url:::::::/tasks
+2024-01-18 22:11:06 info: Service: getTasks
+2024-01-18 22:11:18 info: url:::::::/tasks
+2024-01-18 22:11:18 info: Service: getTasks
+2024-01-18 22:11:27 info: url:::::::/tasks
+2024-01-18 22:11:27 info: Service: getTasks
+2024-01-18 22:11:46 info: url:::::::/tasks
+2024-01-18 22:11:46 info: Service: getTasks
+2024-01-18 22:11:49 info: url:::::::/tasks
+2024-01-18 22:11:49 info: Service: getTasks
+2024-01-18 22:12:19 info: url:::::::/tasks
+2024-01-18 22:12:19 info: Service: getTasks
+2024-01-18 22:12:22 info: url:::::::/tasks
+2024-01-18 22:12:22 info: Service: getTasks
+2024-01-18 22:13:30 info: url:::::::/tasks
+2024-01-18 22:13:30 info: Service: getTasks
+2024-01-18 22:15:13 info: url:::::::/tasks
+2024-01-18 22:15:13 info: Service: getTasks
+2024-01-18 22:15:16 info: url:::::::/tasks
+2024-01-18 22:15:16 info: Service: getTasks
+2024-01-18 22:16:18 info: url:::::::/tasks
+2024-01-18 22:16:18 info: Service: getTasks
+2024-01-18 22:16:22 info: url:::::::/tasks
+2024-01-18 22:16:22 info: Service: getTasks
+2024-01-18 22:16:46 info: url:::::::/tasks
+2024-01-18 22:16:46 info: Service: getTasks
+2024-01-18 22:17:53 info: url:::::::/tasks
+2024-01-18 22:17:53 info: Service: getTasks
+2024-01-18 22:19:13 info: url:::::::/tasks
+2024-01-18 22:19:13 info: Service: getTasks
+2024-01-18 22:28:17 info: url:::::::/tasks
+2024-01-18 22:28:17 info: Service: getTasks
+2024-01-18 22:31:34 info: url:::::::/tasks
+2024-01-18 22:31:34 info: Service: getTasks
+2024-01-18 22:31:38 info: url:::::::/tasks
+2024-01-18 22:31:38 info: Service: getTasks
+2024-01-18 22:33:04 info: url:::::::/tasks
+2024-01-18 22:33:04 info: Service: getTasks
+2024-01-18 22:33:15 info: url:::::::/tasks
+2024-01-18 22:33:15 info: Service: getTasks
+2024-01-18 22:35:58 info: url:::::::/tasks
+2024-01-18 22:35:58 info: Service: getTasks
+2024-01-18 22:37:38 info: url:::::::/tasks
+2024-01-18 22:37:38 info: Service: getTasks
+2024-01-18 22:42:49 info: url:::::::/tasks
+2024-01-18 22:42:49 info: Service: getTasks
+2024-01-18 22:42:59 info: url:::::::/tasks
+2024-01-18 22:42:59 info: Service: getTasks
+2024-01-19 09:29:34 info: Disconnected, Connection Name NativeConnection
+2024-01-19 09:29:35 info: url:::::::/tasks
+2024-01-19 09:29:35 info: Service: getTasks
+2024-01-19 09:29:36 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-19 10:46:32 info: url:::::::/tasks
+2024-01-19 10:46:32 info: Service: getTasks
+2024-01-19 10:47:09 info: Disconnected, Connection Name NativeConnection
+2024-01-19 10:47:20 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-19 11:34:20 info: Disconnected, Connection Name NativeConnection
+2024-01-19 11:34:21 info: url:::::::/tasks
+2024-01-19 11:34:21 info: Service: getTasks
+2024-01-19 11:34:21 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-19 12:17:09 info: url:::::::/tasks
+2024-01-19 12:17:09 info: Service: getTasks
+2024-01-19 13:43:17 info: Disconnected, Connection Name NativeConnection
+2024-01-19 13:43:18 info: url:::::::/tasks
+2024-01-19 13:43:18 info: Service: getTasks
+2024-01-19 13:43:41 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-19 15:03:06 info: Disconnected, Connection Name NativeConnection
+2024-01-19 15:03:06 info: url:::::::/tasks
+2024-01-19 15:03:06 info: Service: getTasks
+2024-01-19 15:03:23 info: url:::::::/tasks
+2024-01-19 15:03:23 info: Service: getTasks
+2024-01-19 16:36:07 info: Express Server Listening on port 3080
+2024-01-19 16:36:12 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-19 16:36:21 info: url:::::::/tasks
+2024-01-19 16:36:21 info: Service: getTasks
+2024-01-19 16:37:36 info: url:::::::/tasks
+2024-01-19 16:37:36 info: Service: getTasks
+2024-01-20 03:02:59 info: Disconnected, Connection Name NativeConnection
+2024-01-20 03:03:09 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 05:07:54 info: Disconnected, Connection Name NativeConnection
+2024-01-20 05:08:04 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 07:14:45 info: Disconnected, Connection Name NativeConnection
+2024-01-20 07:14:56 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 09:25:47 info: Disconnected, Connection Name NativeConnection
+2024-01-20 09:25:58 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 11:20:46 info: Disconnected, Connection Name NativeConnection
+2024-01-20 11:20:56 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 12:41:26 info: Disconnected, Connection Name NativeConnection
+2024-01-20 12:41:37 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 12:58:35 info: Disconnected, Connection Name NativeConnection
+2024-01-20 12:58:45 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 13:32:34 info: url:::::::/tasks
+2024-01-20 13:32:34 info: Service: getTasks
+2024-01-20 13:36:12 info: Service: signin
+2024-01-20 13:36:12 info: url:::::::/tasks
+2024-01-20 13:36:12 info: Service: getTasks
+2024-01-20 13:43:31 info: Service: signin
+2024-01-20 13:43:36 info: Service: signin
+2024-01-20 13:44:49 info: Service: signin
+2024-01-20 13:47:27 info: Service: signin
+2024-01-20 13:47:39 info: Service: signin
+2024-01-20 13:48:02 info: Service: signin
+2024-01-20 13:48:02 info: Service: signin
+2024-01-20 13:48:23 info: Service: signin
+2024-01-20 13:48:23 info: Service: signin
+2024-01-20 13:48:24 info: Service: signin
+2024-01-20 14:01:51 info: Service: Signup, [object Object]
+2024-01-20 14:04:02 info: Service: Signup, [object Object]
+2024-01-20 14:05:51 info: Service: Signup, [object Object]
+2024-01-20 14:06:12 info: Service: Signup, [object Object]
+2024-01-20 14:08:09 info: Service: Signup, [object Object]
+2024-01-20 14:09:42 info: Service: Signup, [object Object]
+2024-01-20 14:10:04 info: Service: Signup, [object Object]
+2024-01-20 14:11:00 info: Service: Signup, [object Object]
+2024-01-20 14:12:16 info: Express Server Listening on port 3080
+2024-01-20 14:12:17 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 14:12:19 info: Service: Signup, [object Object]
+2024-01-20 14:13:03 info: Service: Signup, [object Object]
+2024-01-20 14:13:03 info: url:::::::/tasks
+2024-01-20 14:13:03 info: Service: getTasks
+2024-01-20 14:27:10 info: url:::::::/tasks
+2024-01-20 14:27:10 info: Service: getTasks
+2024-01-20 14:27:42 info: url:::::::/tasks
+2024-01-20 14:27:42 info: Service: getTasks
+2024-01-20 14:28:07 info: url:::::::/tasks
+2024-01-20 14:28:07 info: Service: getTasks
+2024-01-20 14:28:26 info: Service: signin
+2024-01-20 14:28:32 info: Service: signin
+2024-01-20 14:29:07 info: Service: signin
+2024-01-20 14:29:21 info: Service: signin
+2024-01-20 14:31:17 info: Service: signin
+2024-01-20 14:31:17 info: url:::::::/tasks
+2024-01-20 14:31:17 info: Service: getTasks
+2024-01-20 14:32:46 info: Service: signin
+2024-01-20 14:32:46 info: url:::::::/tasks
+2024-01-20 14:32:46 info: Service: getTasks
+2024-01-20 14:35:23 info: Service: signin
+2024-01-20 14:35:23 info: url:::::::/tasks
+2024-01-20 14:35:23 info: Service: getTasks
+2024-01-20 14:37:48 info: Service: signin
+2024-01-20 14:37:48 info: Service: getTasks
+2024-01-20 14:37:48 info: url:::::::/tasks
+2024-01-20 14:40:12 info: Service: signin
+2024-01-20 14:40:12 info: url:::::::/tasks
+2024-01-20 14:40:12 info: Service: getTasks
+2024-01-20 14:42:37 info: Service: signin
+2024-01-20 14:42:37 info: url:::::::/tasks
+2024-01-20 14:42:37 info: Service: getTasks
+2024-01-20 14:43:30 info: Service: signin
+2024-01-20 14:43:30 info: url:::::::/tasks
+2024-01-20 14:43:30 info: Service: getTasks
+2024-01-20 14:43:57 info: url:::::::/tasks
+2024-01-20 14:43:57 info: Service: getTasks
+2024-01-20 14:44:05 info: Service: signin
+2024-01-20 14:44:05 info: url:::::::/tasks
+2024-01-20 14:44:05 info: Service: getTasks
+2024-01-20 14:44:48 info: Service: signin
+2024-01-20 14:44:48 info: url:::::::/tasks
+2024-01-20 14:44:48 info: Service: getTasks
+2024-01-20 14:45:07 info: url:::::::/tasks
+2024-01-20 14:45:07 info: Service: getTasks
+2024-01-20 14:45:14 info: Service: signin
+2024-01-20 14:45:14 info: url:::::::/tasks
+2024-01-20 14:45:14 info: Service: getTasks
+2024-01-20 14:46:23 info: Service: signin
+2024-01-20 14:46:23 info: url:::::::/tasks
+2024-01-20 14:46:23 info: Service: getTasks
+2024-01-20 14:51:08 info: url:::::::/tasks
+2024-01-20 14:51:08 info: Service: getTasks
+2024-01-20 14:51:20 info: Service: signin
+2024-01-20 14:51:20 info: url:::::::/tasks
+2024-01-20 14:51:20 info: Service: getTasks
+2024-01-20 15:07:54 info: url:::::::/tasks
+2024-01-20 15:07:54 info: Service: getTasks
+2024-01-20 15:26:32 info: url:::::::/tasks
+2024-01-20 15:26:32 info: Service: getTasks
+2024-01-20 15:26:44 info: url:::::::/tasks
+2024-01-20 15:26:44 info: Service: getTasks
+2024-01-20 15:27:02 info: url:::::::/tasks
+2024-01-20 15:27:02 info: Service: getTasks
+2024-01-20 15:27:21 info: url:::::::/tasks
+2024-01-20 15:27:21 info: Service: getTasks
+2024-01-20 15:27:37 info: url:::::::/tasks
+2024-01-20 15:27:37 info: Service: getTasks
+2024-01-20 15:27:38 info: url:::::::/tasks
+2024-01-20 15:27:38 info: Service: getTasks
+2024-01-20 15:27:40 info: url:::::::/tasks
+2024-01-20 15:27:40 info: Service: getTasks
+2024-01-20 15:27:41 info: url:::::::/tasks
+2024-01-20 15:27:41 info: Service: getTasks
+2024-01-20 15:27:42 info: url:::::::/tasks
+2024-01-20 15:27:42 info: Service: getTasks
+2024-01-20 15:27:46 info: url:::::::/tasks
+2024-01-20 15:27:46 info: Service: getTasks
+2024-01-20 15:28:03 info: Service: signin
+2024-01-20 15:28:03 info: url:::::::/tasks
+2024-01-20 15:28:03 info: Service: getTasks
+2024-01-20 15:32:04 info: url:::::::/tasks
+2024-01-20 15:32:04 info: Service: getTasks
+2024-01-20 15:32:12 info: Service: signin
+2024-01-20 15:32:12 info: url:::::::/tasks
+2024-01-20 15:32:12 info: Service: getTasks
+2024-01-20 15:32:18 info: url:::::::/tasks
+2024-01-20 15:32:18 info: Service: getTasks
+2024-01-20 15:45:44 info: url:::::::/tasks
+2024-01-20 15:45:44 info: Service: getTasks
+2024-01-20 15:46:05 info: Service: signin
+2024-01-20 15:46:05 info: url:::::::/tasks
+2024-01-20 15:46:05 info: Service: getTasks
+2024-01-20 18:58:19 info: Disconnected, Connection Name NativeConnection
+2024-01-20 18:58:29 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 19:07:31 info: Service: signin
+2024-01-20 19:07:31 info: url:::::::/tasks
+2024-01-20 19:07:31 info: Service: getTasks
+2024-01-20 19:09:19 info: url:::::::/tasks
+2024-01-20 19:09:19 info: Service: getTasks
+2024-01-20 19:09:23 info: url:::::::/tasks
+2024-01-20 19:09:23 info: Service: getTasks
+2024-01-20 19:09:35 info: url:::::::/task/657f6d2210d6b9ed5745417a
+2024-01-20 19:09:44 info: url:::::::/tasks
+2024-01-20 19:09:44 info: Service: getTasks
+2024-01-20 19:09:52 info: Service: signin
+2024-01-20 19:09:52 info: url:::::::/tasks
+2024-01-20 19:09:52 info: Service: getTasks
+2024-01-20 19:09:55 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:09:58 info: url:::::::/tasks
+2024-01-20 19:09:58 info: Service: getTasks
+2024-01-20 19:10:01 info: url:::::::/task/657f6d2210d6b9ed5745417a
+2024-01-20 19:10:49 info: url:::::::/task/657f6d2210d6b9ed5745417a
+2024-01-20 19:10:53 info: url:::::::/tasks
+2024-01-20 19:10:53 info: Service: getTasks
+2024-01-20 19:10:56 info: url:::::::/tasks
+2024-01-20 19:10:56 info: Service: getTasks
+2024-01-20 19:11:08 info: Service: signin
+2024-01-20 19:11:08 info: url:::::::/tasks
+2024-01-20 19:11:08 info: Service: getTasks
+2024-01-20 19:11:10 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:11:35 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:11:45 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:12:00 info: Service: signin
+2024-01-20 19:12:00 info: url:::::::/tasks
+2024-01-20 19:12:00 info: Service: getTasks
+2024-01-20 19:12:01 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:12:16 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:13:10 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:14:58 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:15:06 info: url:::::::/tasks
+2024-01-20 19:15:06 info: Service: getTasks
+2024-01-20 19:15:15 info: Service: signin
+2024-01-20 19:15:15 info: url:::::::/tasks
+2024-01-20 19:15:15 info: Service: getTasks
+2024-01-20 19:15:20 info: url:::::::/task/657f6d2210d6b9ed5745417a
+2024-01-20 19:15:25 info: url:::::::/tasks
+2024-01-20 19:15:25 info: Service: getTasks
+2024-01-20 19:15:26 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 19:15:31 info: url:::::::/tasks
+2024-01-20 19:15:31 info: Service: getTasks
+2024-01-20 19:45:05 info: url:::::::/tasks
+2024-01-20 19:45:05 info: Service: getTasks
+2024-01-20 19:45:25 info: url:::::::/tasks
+2024-01-20 19:45:25 info: Service: getTasks
+2024-01-20 19:45:26 info: url:::::::/tasks
+2024-01-20 19:45:26 info: Service: getTasks
+2024-01-20 19:45:26 info: url:::::::/tasks
+2024-01-20 19:45:26 info: Service: getTasks
+2024-01-20 19:46:27 info: url:::::::/tasks
+2024-01-20 19:46:27 info: Service: getTasks
+2024-01-20 19:46:49 info: url:::::::/tasks
+2024-01-20 19:46:49 info: Service: getTasks
+2024-01-20 19:48:18 info: url:::::::/tasks
+2024-01-20 19:48:18 info: Service: getTasks
+2024-01-20 19:48:44 info: url:::::::/tasks
+2024-01-20 19:48:44 info: Service: getTasks
+2024-01-20 19:49:03 info: Service: signin
+2024-01-20 19:49:33 info: Service: signin
+2024-01-20 19:53:24 info: Service: signin
+2024-01-20 19:53:51 info: url:::::::/tasks
+2024-01-20 19:53:51 info: Service: getTasks
+2024-01-20 19:54:20 info: Service: signin
+2024-01-20 19:54:20 info: url:::::::/tasks
+2024-01-20 19:54:20 info: Service: getTasks
+2024-01-20 20:19:48 info: Disconnected, Connection Name NativeConnection
+2024-01-20 20:19:49 info: url:::::::/tasks
+2024-01-20 20:19:49 info: Service: getTasks
+2024-01-20 20:19:49 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 20:20:00 info: url:::::::/tasks
+2024-01-20 20:20:00 info: Service: getTasks
+2024-01-20 20:20:00 info: url:::::::/tasks
+2024-01-20 20:20:00 info: Service: getTasks
+2024-01-20 20:20:17 info: url:::::::/tasks
+2024-01-20 20:20:17 info: Service: getTasks
+2024-01-20 20:20:17 info: url:::::::/tasks
+2024-01-20 20:20:17 info: Service: getTasks
+2024-01-20 20:21:08 info: url:::::::/tasks
+2024-01-20 20:21:08 info: Service: getTasks
+2024-01-20 20:21:14 info: url:::::::/tasks
+2024-01-20 20:21:14 info: Service: getTasks
+2024-01-20 20:21:15 info: url:::::::/tasks
+2024-01-20 20:21:15 info: Service: getTasks
+2024-01-20 20:30:38 info: url:::::::/tasks
+2024-01-20 20:30:38 info: Service: getTasks
+2024-01-20 20:31:05 info: url:::::::/tasks
+2024-01-20 20:31:05 info: Service: getTasks
+2024-01-20 20:31:15 info: url:::::::/tasks
+2024-01-20 20:31:15 info: Service: getTasks
+2024-01-20 20:32:32 info: Service: signin
+2024-01-20 20:32:33 info: url:::::::/tasks
+2024-01-20 20:32:33 info: Service: getTasks
+2024-01-20 20:34:25 info: url:::::::/tasks
+2024-01-20 20:34:25 info: Service: getTasks
+2024-01-20 20:34:36 info: Service: signin
+2024-01-20 20:34:36 info: url:::::::/tasks
+2024-01-20 20:34:36 info: Service: getTasks
+2024-01-20 20:36:02 info: url:::::::/tasks
+2024-01-20 20:36:02 info: Service: getTasks
+2024-01-20 20:36:08 info: Service: signin
+2024-01-20 20:36:08 info: url:::::::/tasks
+2024-01-20 20:36:08 info: Service: getTasks
+2024-01-20 20:37:40 info: url:::::::/tasks
+2024-01-20 20:37:40 info: Service: getTasks
+2024-01-20 20:37:55 info: url:::::::/tasks
+2024-01-20 20:37:55 info: Service: getTasks
+2024-01-20 20:38:01 info: Service: signin
+2024-01-20 20:38:01 info: url:::::::/tasks
+2024-01-20 20:38:01 info: Service: getTasks
+2024-01-20 20:44:09 info: Service: createTask, [object Object]
+2024-01-20 20:44:56 info: Service: signin
+2024-01-20 20:44:56 info: url:::::::/tasks
+2024-01-20 20:44:56 info: Service: getTasks
+2024-01-20 20:45:37 info: Service: createTask, [object Object]
+2024-01-20 20:48:33 info: url:::::::/tasks
+2024-01-20 20:48:33 info: Service: getTasks
+2024-01-20 20:48:54 info: Service: createTask, [object Object]
+2024-01-20 20:48:54 info: url:::::::/tasks
+2024-01-20 20:48:54 info: Service: getTasks
+2024-01-20 20:49:20 info: url:::::::/tasks
+2024-01-20 20:49:20 info: Service: getTasks
+2024-01-20 20:49:29 info: Service: signin
+2024-01-20 20:49:29 info: url:::::::/tasks
+2024-01-20 20:49:29 info: Service: getTasks
+2024-01-20 20:49:42 info: Service: createTask, [object Object]
+2024-01-20 20:49:42 info: url:::::::/tasks
+2024-01-20 20:49:42 info: Service: getTasks
+2024-01-20 20:51:57 info: url:::::::/tasks
+2024-01-20 20:51:57 info: Service: getTasks
+2024-01-20 20:51:58 info: url:::::::/tasks
+2024-01-20 20:51:58 info: Service: getTasks
+2024-01-20 20:51:58 info: url:::::::/tasks
+2024-01-20 20:51:58 info: Service: getTasks
+2024-01-20 20:51:59 info: url:::::::/tasks
+2024-01-20 20:51:59 info: Service: getTasks
+2024-01-20 20:51:59 info: url:::::::/tasks
+2024-01-20 20:51:59 info: Service: getTasks
+2024-01-20 20:52:00 info: url:::::::/tasks
+2024-01-20 20:52:00 info: Service: getTasks
+2024-01-20 20:53:03 info: Service: signin
+2024-01-20 20:53:03 info: url:::::::/tasks
+2024-01-20 20:53:03 info: Service: getTasks
+2024-01-20 20:53:11 info: Service: createTask, [object Object]
+2024-01-20 20:53:11 info: url:::::::/tasks
+2024-01-20 20:53:11 info: Service: getTasks
+2024-01-20 20:56:47 info: url:::::::/tasks
+2024-01-20 20:56:47 info: Service: getTasks
+2024-01-20 20:56:48 info: url:::::::/tasks
+2024-01-20 20:56:48 info: Service: getTasks
+2024-01-20 20:56:48 info: url:::::::/tasks
+2024-01-20 20:56:48 info: Service: getTasks
+2024-01-20 20:58:58 info: url:::::::/tasks
+2024-01-20 20:58:58 info: Service: getTasks
+2024-01-20 20:58:59 info: url:::::::/tasks
+2024-01-20 20:58:59 info: Service: getTasks
+2024-01-20 20:59:00 info: url:::::::/tasks
+2024-01-20 20:59:00 info: Service: getTasks
+2024-01-20 20:59:01 info: url:::::::/tasks
+2024-01-20 20:59:01 info: Service: getTasks
+2024-01-20 20:59:01 info: url:::::::/tasks
+2024-01-20 20:59:01 info: Service: getTasks
+2024-01-20 20:59:09 info: url:::::::/tasks
+2024-01-20 20:59:09 info: Service: getTasks
+2024-01-20 20:59:16 info: Service: signin
+2024-01-20 20:59:16 info: url:::::::/tasks
+2024-01-20 20:59:16 info: Service: getTasks
+2024-01-20 20:59:24 info: Service: createTask, [object Object]
+2024-01-20 20:59:24 info: url:::::::/tasks
+2024-01-20 20:59:24 info: Service: getTasks
+2024-01-20 21:39:30 info: Disconnected, Connection Name NativeConnection
+2024-01-20 21:39:33 info: url:::::::/tasks
+2024-01-20 21:39:33 info: Service: getTasks
+2024-01-20 21:39:34 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 21:40:24 info: url:::::::/tasks
+2024-01-20 21:40:24 info: Service: getTasks
+2024-01-20 21:40:55 info: url:::::::/tasks
+2024-01-20 21:40:55 info: Service: getTasks
+2024-01-20 21:41:32 info: url:::::::/tasks
+2024-01-20 21:41:32 info: Service: getTasks
+2024-01-20 21:41:38 info: url:::::::/tasks
+2024-01-20 21:41:38 info: Service: getTasks
+2024-01-20 22:21:18 info: url:::::::/tasks
+2024-01-20 22:21:18 info: Service: getTasks
+2024-01-20 22:21:19 info: url:::::::/tasks
+2024-01-20 22:21:19 info: Service: getTasks
+2024-01-20 22:21:20 info: url:::::::/tasks
+2024-01-20 22:21:20 info: Service: getTasks
+2024-01-20 22:21:27 info: url:::::::/tasks
+2024-01-20 22:21:27 info: Service: getTasks
+2024-01-20 22:21:29 info: url:::::::/tasks
+2024-01-20 22:21:29 info: Service: getTasks
+2024-01-20 22:21:30 info: url:::::::/tasks
+2024-01-20 22:21:30 info: Service: getTasks
+2024-01-20 22:21:30 info: url:::::::/tasks
+2024-01-20 22:21:30 info: Service: getTasks
+2024-01-20 22:21:31 info: url:::::::/tasks
+2024-01-20 22:21:31 info: Service: getTasks
+2024-01-20 22:22:18 info: url:::::::/tasks
+2024-01-20 22:22:18 info: Service: getTasks
+2024-01-20 22:27:22 info: Service: signin
+2024-01-20 22:27:22 info: url:::::::/tasks
+2024-01-20 22:27:22 info: Service: getTasks
+2024-01-20 22:27:27 info: url:::::::/task/65ac888cf5d145f28d3d722e
+2024-01-20 22:27:27 info: Service: deleteTask, 65ac888cf5d145f28d3d722e
+2024-01-20 22:27:27 info: url:::::::/tasks
+2024-01-20 22:27:27 info: Service: getTasks
+2024-01-20 22:27:30 info: url:::::::/task/65ac8717f5d145f28d3d7220
+2024-01-20 22:27:30 info: Service: deleteTask, 65ac8717f5d145f28d3d7220
+2024-01-20 22:27:30 info: url:::::::/tasks
+2024-01-20 22:27:30 info: Service: getTasks
+2024-01-20 22:27:32 info: url:::::::/task/65ac8646f5d145f28d3d7215
+2024-01-20 22:27:32 info: Service: deleteTask, 65ac8646f5d145f28d3d7215
+2024-01-20 22:27:32 info: url:::::::/tasks
+2024-01-20 22:27:32 info: Service: getTasks
+2024-01-20 22:27:33 info: url:::::::/task/65ac8616f5d145f28d3d720f
+2024-01-20 22:27:33 info: Service: deleteTask, 65ac8616f5d145f28d3d720f
+2024-01-20 22:27:34 info: url:::::::/tasks
+2024-01-20 22:27:34 info: Service: getTasks
+2024-01-20 22:27:35 info: url:::::::/task/65ac8551f5d145f28d3d720c
+2024-01-20 22:27:35 info: Service: deleteTask, 65ac8551f5d145f28d3d720c
+2024-01-20 22:27:36 info: url:::::::/tasks
+2024-01-20 22:27:36 info: Service: getTasks
+2024-01-20 22:27:37 info: url:::::::/task/65ac84f9f5d145f28d3d7208
+2024-01-20 22:27:37 info: Service: deleteTask, 65ac84f9f5d145f28d3d7208
+2024-01-20 22:27:37 info: url:::::::/tasks
+2024-01-20 22:27:37 info: Service: getTasks
+2024-01-20 22:28:12 info: Service: createTask, [object Object]
+2024-01-20 22:28:12 info: url:::::::/tasks
+2024-01-20 22:28:12 info: Service: getTasks
+2024-01-20 22:37:51 info: url:::::::/tasks
+2024-01-20 22:37:51 info: Service: getTasks
+2024-01-20 22:38:20 info: Service: signin
+2024-01-20 22:38:20 info: url:::::::/tasks
+2024-01-20 22:38:20 info: Service: getTasks
+2024-01-20 22:38:37 info: url:::::::/tasks
+2024-01-20 22:38:37 info: Service: getTasks
+2024-01-20 22:38:40 info: url:::::::/tasks
+2024-01-20 22:38:40 info: Service: getTasks
+2024-01-20 22:38:43 info: url:::::::/task/657f6d2210d6b9ed5745417a
+2024-01-20 22:38:46 info: url:::::::/task/657f6d2210d6b9ed5745417a
+2024-01-20 22:42:27 info: Service: signin
+2024-01-20 22:42:27 info: url:::::::/tasks
+2024-01-20 22:42:27 info: Service: getTasks
+2024-01-20 22:49:32 info: url:::::::/tasks
+2024-01-20 22:49:32 info: Service: getTasks
+2024-01-20 22:52:05 info: url:::::::/tasks
+2024-01-20 22:52:05 info: Service: getTasks
+2024-01-20 22:52:42 info: url:::::::/tasks
+2024-01-20 22:52:42 info: Service: getTasks
+2024-01-20 22:54:01 info: url:::::::/tasks
+2024-01-20 22:54:01 info: Service: getTasks
+2024-01-20 22:54:22 info: url:::::::/tasks
+2024-01-20 22:54:22 info: Service: getTasks
+2024-01-20 22:56:19 info: url:::::::/tasks
+2024-01-20 22:56:19 info: Service: getTasks
+2024-01-20 22:56:47 info: url:::::::/task/657f6d2210d6b9ed5745417a
+2024-01-20 22:56:47 info: Service: deleteTask, 657f6d2210d6b9ed5745417a
+2024-01-20 22:56:47 info: url:::::::/tasks
+2024-01-20 22:56:47 info: Service: getTasks
+2024-01-20 22:56:48 info: url:::::::/task/6581d0e8032acad672a46fda
+2024-01-20 22:56:48 info: Service: deleteTask, 6581d0e8032acad672a46fda
+2024-01-20 22:56:48 info: url:::::::/tasks
+2024-01-20 22:56:48 info: Service: getTasks
+2024-01-20 22:56:50 info: url:::::::/task/65ac9d5cf5d145f28d3d724d
+2024-01-20 22:56:50 info: Service: deleteTask, 65ac9d5cf5d145f28d3d724d
+2024-01-20 22:56:50 info: url:::::::/tasks
+2024-01-20 22:56:50 info: Service: getTasks
+2024-01-20 22:56:59 info: Service: createTask, [object Object]
+2024-01-20 22:56:59 info: url:::::::/tasks
+2024-01-20 22:56:59 info: Service: getTasks
+2024-01-20 22:57:11 info: url:::::::/tasks
+2024-01-20 22:57:11 info: Service: getTasks
+2024-01-20 22:57:24 info: url:::::::/tasks
+2024-01-20 22:57:24 info: Service: getTasks
+2024-01-20 22:58:00 info: Service: createTask, [object Object]
+2024-01-20 22:58:00 info: url:::::::/tasks
+2024-01-20 22:58:00 info: Service: getTasks
+2024-01-20 22:58:10 info: Service: createTask, [object Object]
+2024-01-20 22:59:25 info: Express Server Listening on port 3080
+2024-01-20 22:59:27 info: url:::::::/tasks
+2024-01-20 22:59:27 info: Service: getTasks
+2024-01-20 22:59:33 info: url:::::::/tasks
+2024-01-20 22:59:33 info: Service: getTasks
+2024-01-20 22:59:50 info: Express Server Listening on port 3080
+2024-01-20 22:59:56 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 23:00:02 info: url:::::::/tasks
+2024-01-20 23:00:02 info: Service: getTasks
+2024-01-20 23:00:12 info: url:::::::/tasks
+2024-01-20 23:00:12 info: Service: getTasks
+2024-01-20 23:00:39 info: Service: createTask, [object Object]
+2024-01-20 23:00:39 info: url:::::::/tasks
+2024-01-20 23:00:39 info: Service: getTasks
+2024-01-20 23:04:22 info: url:::::::/tasks
+2024-01-20 23:04:22 info: Service: getTasks
+2024-01-20 23:04:25 info: url:::::::/tasks
+2024-01-20 23:04:25 info: Service: getTasks
+2024-01-20 23:04:37 info: url:::::::/tasks
+2024-01-20 23:04:37 info: Service: getTasks
+2024-01-20 23:06:53 info: url:::::::/tasks
+2024-01-20 23:06:53 info: Service: getTasks
+2024-01-20 23:06:53 info: url:::::::/tasks
+2024-01-20 23:06:53 info: Service: getTasks
+2024-01-20 23:06:56 info: url:::::::/tasks
+2024-01-20 23:06:57 info: Service: getTasks
+2024-01-20 23:07:07 info: url:::::::/tasks
+2024-01-20 23:07:07 info: Service: getTasks
+2024-01-20 23:08:33 info: Express Server Listening on port 3080
+2024-01-20 23:08:33 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-20 23:08:47 info: url:::::::/tasks
+2024-01-20 23:08:47 info: Service: getTasks
+2024-01-20 23:08:48 info: url:::::::/tasks
+2024-01-20 23:08:48 info: Service: getTasks
+2024-01-20 23:09:06 info: url:::::::/tasks
+2024-01-20 23:09:06 info: Service: getTasks
+2024-01-20 23:09:49 info: url:::::::/tasks
+2024-01-20 23:09:49 info: Service: getTasks
+2024-01-20 23:10:04 info: url:::::::/tasks
+2024-01-20 23:10:04 info: Service: getTasks
+2024-01-20 23:11:54 info: url:::::::/tasks
+2024-01-20 23:11:54 info: Service: getTasks
+2024-01-20 23:11:55 info: url:::::::/tasks
+2024-01-20 23:11:55 info: Service: getTasks
+2024-01-20 23:12:02 info: url:::::::/tasks
+2024-01-20 23:12:02 info: Service: getTasks
+2024-01-20 23:12:43 info: url:::::::/tasks
+2024-01-20 23:12:43 info: Service: getTasks
+2024-01-20 23:12:44 info: url:::::::/tasks
+2024-01-20 23:12:44 info: Service: getTasks
+2024-01-20 23:12:44 info: url:::::::/tasks
+2024-01-20 23:12:44 info: Service: getTasks
+2024-01-20 23:12:45 info: url:::::::/tasks
+2024-01-20 23:12:45 info: Service: getTasks
+2024-01-20 23:12:47 info: url:::::::/tasks
+2024-01-20 23:12:47 info: Service: getTasks
+2024-01-20 23:12:59 info: Service: updateTask, [object Object]
+2024-01-20 23:12:59 info: url:::::::/tasks
+2024-01-20 23:12:59 info: Service: getTasks
+2024-01-20 23:13:04 info: url:::::::/task/65aca458f5d145f28d3d726a
+2024-01-20 23:13:51 info: url:::::::/task/65aca458f5d145f28d3d726a
+2024-01-20 23:14:02 info: url:::::::/tasks
+2024-01-20 23:14:02 info: Service: getTasks
+2024-01-21 08:45:39 info: Disconnected, Connection Name NativeConnection
+2024-01-21 08:45:39 info: url:::::::/tasks
+2024-01-21 08:45:39 info: Service: getTasks
+2024-01-21 08:45:40 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-21 10:17:08 info: Disconnected, Connection Name NativeConnection
+2024-01-21 10:17:18 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-21 12:08:48 info: Disconnected, Connection Name NativeConnection
+2024-01-21 12:08:50 info: url:::::::/tasks
+2024-01-21 12:08:50 info: Service: getTasks
+2024-01-21 12:08:50 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-21 15:14:04 info: Disconnected, Connection Name NativeConnection
+2024-01-21 15:14:05 info: url:::::::/tasks
+2024-01-21 15:14:05 info: Service: getTasks
+2024-01-21 15:14:05 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-21 15:15:07 info: url:::::::/tasks
+2024-01-21 15:15:07 info: Service: getTasks
+2024-01-21 15:16:23 info: url:::::::/tasks
+2024-01-21 15:16:23 info: Service: getTasks
+2024-01-21 15:16:27 info: url:::::::/tasks
+2024-01-21 15:16:27 info: Service: getTasks
+2024-01-21 16:27:54 info: Service: signin
+2024-01-21 17:38:11 info: Express Server Listening on port 3080
+2024-01-21 17:38:11 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-21 17:38:12 info: Service: signin
+2024-01-21 17:38:12 info: url:::::::/tasks
+2024-01-21 17:38:12 info: Service: getTasks
+2024-01-21 19:00:05 info: url:::::::/task/65aca41bf5d145f28d3d7265
+2024-01-21 19:00:36 info: url:::::::/task/65aca41bf5d145f28d3d7265
+2024-01-21 20:38:15 info: Disconnected, Connection Name NativeConnection
+2024-01-21 20:38:16 info: url:::::::/task/65aca41bf5d145f28d3d7265
+2024-01-21 20:38:16 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-21 20:39:49 info: url:::::::/task/65aca41bf5d145f28d3d7265
+2024-01-21 20:39:52 info: url:::::::/tasks
+2024-01-21 20:39:52 info: Service: getTasks
+2024-01-21 20:39:54 info: url:::::::/tasks
+2024-01-21 20:39:54 info: Service: getTasks
+2024-01-21 20:58:00 info: Service: signin
+2024-01-21 20:58:00 info: url:::::::/tasks
+2024-01-21 20:58:00 info: Service: getTasks
+2024-01-21 20:58:16 info: url:::::::/tasks
+2024-01-21 20:58:16 info: Service: getTasks
+2024-01-21 21:00:45 info: url:::::::/tasks
+2024-01-21 21:00:45 info: Service: getTasks
+2024-01-22 09:44:14 info: Disconnected, Connection Name NativeConnection
+2024-01-22 09:44:17 info: url:::::::/tasks
+2024-01-22 09:44:17 info: Service: getTasks
+2024-01-22 09:44:18 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-22 14:02:12 info: Disconnected, Connection Name NativeConnection
+2024-01-22 14:02:33 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-22 17:42:51 info: Disconnected, Connection Name NativeConnection
+2024-01-22 17:42:53 info: url:::::::/tasks
+2024-01-22 17:42:53 info: Service: getTasks
+2024-01-22 17:43:05 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-22 20:40:01 info: Disconnected, Connection Name NativeConnection
+2024-01-22 20:40:02 info: url:::::::/tasks
+2024-01-22 20:40:02 info: Service: getTasks
+2024-01-22 20:40:02 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 01:27:20 info: Disconnected, Connection Name NativeConnection
+2024-01-23 01:27:22 info: url:::::::/tasks
+2024-01-23 01:27:22 info: Service: getTasks
+2024-01-23 01:27:34 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 03:40:33 info: Disconnected, Connection Name NativeConnection
+2024-01-23 03:40:44 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 07:56:46 info: Disconnected, Connection Name NativeConnection
+2024-01-23 07:56:56 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 09:04:39 info: Disconnected, Connection Name NativeConnection
+2024-01-23 09:04:45 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 11:01:35 info: url:::::::/tasks
+2024-01-23 11:01:35 info: Service: getTasks
+2024-01-23 12:00:45 info: Disconnected, Connection Name NativeConnection
+2024-01-23 12:00:56 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 15:17:52 info: Disconnected, Connection Name NativeConnection
+2024-01-23 15:18:06 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 16:14:22 info: Disconnected, Connection Name NativeConnection
+2024-01-23 16:14:32 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-23 16:47:10 info: Disconnected, Connection Name NativeConnection
+2024-01-23 16:47:20 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-24 21:26:18 info: Express Server Listening on port 3080
+2024-01-24 21:26:22 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-24 21:27:11 info: Service: signin
+2024-01-24 21:27:11 info: url:::::::/tasks
+2024-01-24 21:27:11 info: Service: getTasks
+2024-01-24 21:27:21 info: url:::::::/tasks
+2024-01-24 21:27:21 info: Service: getTasks
+2024-01-24 21:37:28 info: Service: signin
+2024-01-24 21:37:28 info: url:::::::/tasks
+2024-01-24 21:37:28 info: Service: getTasks
+2024-01-24 22:41:14 info: Express Server Listening on port 3080
+2024-01-24 22:41:20 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-25 18:52:36 info: Express Server Listening on port 3080
+2024-01-25 18:52:41 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-25 18:53:33 info: Express Server Listening on port 3080
+2024-01-25 18:53:43 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 14:12:15 info: Express Server Listening on port 3080
+2024-01-29 14:12:18 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 14:18:21 info: Express Server Listening on port 3080
+2024-01-29 14:18:22 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 14:38:35 info: Express Server Listening on port 3080
+2024-01-29 14:38:41 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 15:26:52 info: Disconnected, Connection Name NativeConnection
+2024-01-29 15:27:03 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 15:48:14 info: Disconnected, Connection Name NativeConnection
+2024-01-29 15:48:24 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 15:57:44 info: Disconnected, Connection Name NativeConnection
+2024-01-29 15:57:54 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 17:37:08 info: Express Server Listening on port 3080
+2024-01-29 17:37:14 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 17:40:09 info: Express Server Listening on port 3002
+2024-01-29 17:40:16 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-29 19:04:24 info: Disconnected, Connection Name NativeConnection
+2024-01-29 19:04:45 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-30 04:53:10 info: Disconnected, Connection Name NativeConnection
+2024-01-30 04:53:20 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-31 05:30:41 info: Express Server Listening on port 3080
+2024-01-31 05:30:47 info: Connected to MongoDB, Connection Name NativeConnection
+2024-01-31 12:19:43 info: Express Server Listening on port 3080
+2024-01-31 12:20:13 info: Disconnected, Connection Name NativeConnection
+2024-01-31 12:37:16 info: Express Server Listening on port 3080
+2024-01-31 12:37:46 info: Disconnected, Connection Name NativeConnection
+2024-02-08 22:02:55 info: Express Server Listening on port 3080
+2024-02-08 22:03:25 info: Disconnected, Connection Name NativeConnection
+2024-02-09 14:24:20 info: Express Server Listening on port 3080
+2024-02-09 14:24:21 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 14:24:42 info: Express Server Listening on port 3080
+2024-02-09 14:24:42 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 14:24:53 info: Express Server Listening on port 3080
+2024-02-09 14:24:54 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 14:25:50 info: url:::::::/tasks
+2024-02-09 14:25:50 info: Service: getTasks
+2024-02-09 14:26:59 info: Express Server Listening on port 3080
+2024-02-09 14:27:00 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 14:55:53 info: Disconnected, Connection Name NativeConnection
+2024-02-09 14:56:04 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 15:12:23 info: Express Server Listening on port 3080
+2024-02-09 15:12:23 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 15:15:39 info: Express Server Listening on port 3080
+2024-02-09 15:15:39 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 15:16:45 info: Express Server Listening on port 3080
+2024-02-09 15:16:46 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 15:16:50 info: Express Server Listening on port 3080
+2024-02-09 15:16:51 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 15:17:02 info: Express Server Listening on port 3080
+2024-02-09 15:17:03 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 15:17:18 info: Express Server Listening on port 3080
+2024-02-09 15:17:19 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 15:17:33 info: Service: signin
+2024-02-09 15:17:33 info: url:::::::/tasks
+2024-02-09 15:17:33 info: Service: getTasks
+2024-02-09 15:17:45 info: Service: signin
+2024-02-09 15:17:45 info: url:::::::/tasks
+2024-02-09 15:17:45 info: Service: getTasks
+2024-02-09 15:17:52 info: url:::::::/tasks
+2024-02-09 15:17:52 info: Service: getTasks
+2024-02-09 16:03:34 info: Disconnected, Connection Name NativeConnection
+2024-02-09 16:03:44 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-09 16:45:31 info: Disconnected, Connection Name NativeConnection
+2024-02-09 16:45:41 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-10 00:35:28 info: Disconnected, Connection Name NativeConnection
+2024-02-10 06:33:44 info: Express Server Listening on port 3080
+2024-02-10 06:33:45 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-10 11:49:29 info: Express Server Listening on port 3080
+2024-02-10 11:54:01 info: Express Server Listening on port 3080
+2024-02-10 11:54:02 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-10 11:55:26 info: Express Server Listening on port 3080
+2024-02-10 11:55:27 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-10 12:00:15 info: Express Server Listening on port 3080
+2024-02-10 12:00:16 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-10 12:04:38 info: Express Server Listening on port 3080
+2024-02-10 12:04:38 info: Connected to MongoDB, Connection Name NativeConnection
+2024-02-10 19:23:20 info: Express Server Listening on port 3080
+2024-02-10 19:23:21 info: Connected to MongoDB, Connection Name NativeConnection

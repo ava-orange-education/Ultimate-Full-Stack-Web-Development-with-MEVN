@@ -1,0 +1,47 @@
+# Use an official Node runtime as a parent image
+FROM node:16
+
+# Set the working directory in the container
+WORKDIR /usr/src/app
+
+# Copy package.json and package-lock.json
+COPY ui/package*.json ./ui/
+
+# change the working directory
+WORKDIR /usr/src/app/ui
+
+# Install any needed packages
+RUN npm install
+
+# Bundle app source
+COPY ui/ .
+
+# Running the build
+RUN npm run build
+
+# change the working directory
+WORKDIR /usr/src/app
+
+# Copy package.json and package-lock.json
+COPY api/package*.json ./api/
+
+# change the working directory
+WORKDIR /usr/src/app/api
+
+# Install any needed packages
+RUN npm install
+
+# Bundle app source
+COPY api/ .
+
+# Your app binds to port 3080 so you'll use the EXPOSE instruction to have it mapped by the docker daemon
+EXPOSE 3080
+
+# Running the build
+RUN npm run build-prod
+
+# change the working directory
+WORKDIR /usr/src/app
+
+# Run the application
+CMD ["node", "api/dist/api.bundle.js"]
